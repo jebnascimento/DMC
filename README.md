@@ -28,5 +28,5 @@ Lista de Materiais
 ▸ Diodos, resistores, fios, fita isolante etc
 
 
-Link youtube:
+Link youtube:https://www.youtube.com/watch?v=HN-siJLBna8&feature=youtu.be
 
